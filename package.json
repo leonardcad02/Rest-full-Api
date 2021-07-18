@@ -1,0 +1,27 @@
+{
+  "name": "RestFullApi",
+  "version": "1.0.0",
+  "description": "Create a Rest-ful API with CR actions (create and retrieve/read of CRUD) using  NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardcad02/RestFullApi.git"
+  },
+  "keywords": [],
+  "author": "Cristian Leonardo Cárdenas García",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonardcad02/RestFullApi/issues"
+  },
+  "homepage": "https://github.com/leonardcad02/RestFullApi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
