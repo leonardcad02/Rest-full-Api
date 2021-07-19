@@ -1,4 +1,4 @@
-// Traer varias routas del componentes
+// Traer las rutas de los componentes, pensadon en modularización 
 
 const express  = require('express');
 const employee = require('../components/employees');
